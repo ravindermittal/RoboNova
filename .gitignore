@@ -159,6 +159,12 @@ ENV/
 env.bak/
 venv.bak/
 
+# macOS
+.DS_Store
+
+# Local linked worktrees
+LEGOEducation.worktrees/
+
 # Spyder project settings
 .spyderproject
 .spyproject
